@@ -1,0 +1,290 @@
+body {
+
+}
+.logo {
+    width: 270px;
+    margin-top: 10px;
+}
+.header {
+}
+.logoContainer {
+    padding: 0 !important;
+}
+.ieeeLogo {
+    width:380px;
+    margin-top: 12px;
+    margin-right: 10px;
+    float: right;
+}
+.wrapper {
+    padding-right: 0px !important;
+    padding-left: 0px !important;
+}
+.navbar {
+    margin-bottom: 0 !important;
+    border-radius: 0 !important;
+    padding-left: 70px;
+}
+.nav li a {
+    color: #fff !important;
+}
+.navbar-inverse {
+    z-index: 1;
+}
+.websiteTitle {
+    margin-left: 58px;
+    padding-bottom: 15px;
+    border-bottom: 1px solid #7d7b7b;
+    font-weight: 700;
+    width: 757px;
+}
+.storageConclave h3 {
+    margin-top: 25px;
+    text-align: center;
+    margin-left: 90px;
+    font-weight: bold;
+    font-size: 26px;
+}
+.storageConclave h4 {
+    text-align: center;
+    font-size: 22px;
+    margin-left: 90px;
+}
+.title {
+    width:385px;
+}
+.summitAgenda {
+    width: 400px;
+}
+.keyNotetitle {
+    width: 208px;
+    margin-top: 60px;
+}
+.panelSpeakerstitle {
+    width:350px;
+}
+.title, .keyNotetitle, .panelSpeakerstitle, .summitAgenda {
+    padding-bottom: 30px;
+    color: #000000;
+    font-family: "Roboto", Sans-serif;
+    font-size: 50px;
+    font-weight: 700;
+    border-bottom: 1px solid #000000;
+}
+
+.content {
+    margin-top: 50px;
+}
+.thumbnail h3 {
+    font-size: 1.2em;
+    text-decoration: underline;
+    text-transform: capitalize;
+    margin-top: 3px;
+    margin-bottom: 3px;
+    font-family: "Montserrat", Sans-serif;
+    font-weight: bold;
+    color: #000000;
+}
+/* #organizing a img {
+    width: 43% !important;
+    height: 190px !important;
+} */
+.flipkart {
+    margin-top: 0 !important;
+}
+.thumbnail a img {
+    transition-duration: 0.3s;
+    /* width: 60% !important;
+    height: 190px !important; */
+}
+/* #agendaSection {
+    margin-top: 30px;
+} */
+.table-bordered>tbody>tr>td, .table-bordered>tbody>tr>th, .table-bordered>tfoot>tr>td, .table-bordered>tfoot>tr>th, .table-bordered>thead>tr>td, .table-bordered>thead>tr>th {
+    width: 1px !important;
+}
+.agenda {
+    font-size: 15px;
+}
+.agenda th {
+    background-color: #5874B7;
+    color: #fff;
+}
+.topics th {
+    background-color: #8097cc;
+}
+.agenda tr:nth-child(odd) {
+    background-color: rgb(243, 243, 243);
+}
+.thumbnail img:hover {
+    transform: scale(1.1);
+}
+.thumbnail h3:hover, .thumbnail p:hover, .thumbnail a:hover {
+    text-decoration: none;
+}
+.thumbnail p {
+    font-family: "Montserrat", Sans-serif;
+    font-weight: normal;
+    font-size: 13.8px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.list {
+    margin:40px 0px;
+}
+.list li {
+    list-style: none;
+}
+
+p {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 19px;
+    font-weight: 500;
+    line-height: 1.3em;
+}
+.thumbnail {
+    margin-top: 30px;
+    border: none !important; 
+    text-align: center;
+}
+.status p {
+    color:#fff;
+}
+.statusOverlay {
+    background-image: url("../img/css-lattice-pattern.png");
+    background-repeat: repeat;
+    background-position: center;
+}
+
+.statusOverlay {
+    background-color: #282828;
+    transition: background 0.3s, border-radius 0.3s, opacity 0.3s;
+    padding: 30px 0px;
+}
+.btc a {
+    cursor: pointer;
+    color: #0366d6;
+    font-weight: bold;
+    font-size: 18px;
+}
+.oppList {
+    margin: 0 0 0 20px;
+    padding: 0;
+}
+.oppList li {
+    color: #fff;
+    font-family: "Roboto", Sans-serif;
+    font-size: 20px;
+    list-style: none;
+    font-weight: 400;
+    text-decoration: underline;
+}
+.no {
+    cursor: pointer;
+    color: #0366d6;
+    font-size: 18px;
+}
+.status h2 {
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-size: 27px;
+    font-weight: 500;
+}
+.divider {
+    border-bottom: 2px solid #fff;
+    width:50px;
+    margin-bottom: 20px;
+}
+/* .socialIcons a {
+    background-color: #07001E;
+    font-size: 18px;
+} */
+.modal-dialog {
+    width: 850px !important;
+}
+.modal-header {
+    background-color: #7f1561;
+}
+.modal-title {
+    font-family: "Roboto", Sans-serif;
+    letter-spacing: 1px;
+    color: #FFFFFF;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.assafList {
+    margin: 0;
+    padding: 0;
+}
+.titlePosition {
+    color: gold;
+    font-size: 14px;
+}
+.modalContent {
+    height: 300px;
+    margin-left: 20px;
+    overflow-x: hidden;
+    overflow-y: auto;
+}
+#alex h3 {
+    font-size: 20px;
+    margin-top: 0;
+}
+.modalContent p {
+    color: #000000;
+    font-family: "Montserrat", Sans-serif;
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 24px;
+}
+.modal-header .close {
+    color: #FFFFFF;
+    opacity: 0.7;
+    outline: none !important;
+}
+.btn-danger {
+    color: #fff;
+    outline: none;
+    background-color: #7f1561 !important;
+    border: none !important;
+}
+.btn-close {
+    outline: none !important;
+}
+.flogo {
+    margin-top: 10px;
+    margin-bottom: 15px;
+    width: 213px;
+}
+.flogo img {
+    width:200px;
+}
+.hlogo {
+    background-color: #fff;
+    margin-top: 10px;
+    padding: 10px;
+    width: 200px;
+}
+.hlogo img {
+    width:172px;
+}
+.cohosted p {
+    margin-top: 10px;
+}
+.footer {
+    margin-top:30px;
+    background-color: #24292E;
+    color: #FFFFFF;
+    height: 40px;
+}
+.footer p {
+    padding-top: 8px;
+    color: #FFFFFF;
+    font-family: "Roboto", Sans-serif;
+    font-weight: normal;
+    font-size: 16px;
+}
+.footer p a {
+    color: #FFFFFF;
+}
