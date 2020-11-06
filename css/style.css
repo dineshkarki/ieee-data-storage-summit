@@ -36,7 +36,7 @@ body {
     padding-bottom: 15px;
     border-bottom: 1px solid #7d7b7b;
     font-weight: 700;
-    width: 757px;
+    width: 465px;
 }
 .storageConclave h3 {
     margin-top: 25px;
@@ -286,4 +286,42 @@ p {
 }
 .footer p a {
     color: #FFFFFF;
+}
+
+@media only screen and (min-device-width : 320px) and (max-device-width : 480px) {
+    .logo {
+        margin-left: 37px;
+    }
+    .navbar {
+        padding-left: 0;
+    }
+    .storageConclave h3, .storageConclave h4 {
+        margin-left: 0;
+    }
+    .ieeeLogo {
+        width:333px;
+        margin-right: 0;
+        float: none;
+    }
+    .title, .keyNotetitle, .panelSpeakerstitle, .summitAgenda {
+        font-size: 24px;
+    }
+    .title {
+        width:183px;
+        margin-left: 85px;
+    }
+    .summitAgenda {
+        width: 400px;
+    }
+    .keyNotetitle {
+        width: 100px;
+        margin-left: 125px;
+    }
+    .panelSpeakerstitle {
+        width:350px;
+    }
+    .websiteTitle {
+        margin-left: 95px;
+        width: 160px;
+    }
 }
